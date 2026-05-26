@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatoruave",
+        "uuid": 4162764,
+        "checksum": "ki7hdg"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
